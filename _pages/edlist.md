@@ -22,6 +22,7 @@ author_profile: true
    * MATH151 (Finite Mathematics) 2012-2014
    * MATH099 (Mathematics Skills Workshop) 2014
    * MATH212 (Introduction to Abstract Algebra) 2013
+   * MATH101 (Calculus II) 2012
    * MATH161 (Mathematics for Elementary School Teachers) 2011
 
 **Professional Development Workshops**
