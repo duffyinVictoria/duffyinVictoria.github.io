@@ -9,11 +9,11 @@ author_profile: true
 **Classroom Teaching**
 * University of Melbourne
   * MAST10005 (Calculus 1) 2022-2026
-  * MAST20026 (Real Analysis) 2021-2022 (notes)
+  * MAST20026 (Real Analysis) 2021-2022 [notes](/RealAnalysisNotes.pdf)
 * University of Saskatchewan
-  * MATH266 (Linear Algebra II) 2017,2021 (notes)
-  * MATH163 (Introduction to Mathematical Reasoning) 2019-2020 (notes)
-  * MATH364 (Number Theory) 2018,2020 (notes)
+  * MATH266 (Linear Algebra II) 2017,2021 [notes](/IntroLinearAlgNotes.pdf)
+  * MATH163 (Introduction to Mathematical Reasoning) 2019-2020 [notes](/IntroMathReasoningNotes.pdf)
+  * MATH364 (Number Theory) 2018,2020 [notes](/IntroNumberTheoryNotes.pdf)
   * MATH327 (Graph Theory) 2018,2020
   * MATH420 (Topics in Combinatorics) 2020
   * MATH363 (Abstract Algebra) 2020
