@@ -29,5 +29,5 @@ However interested students should feel welcome to be in touch to discuss opport
 * T Black (2019), Continuous and Discrete Mathematical Modelling of Metal Additive Manufacturing Processes, Undergraduate Research Assistant (NSERC, jointly supervised with A. Cheviakov)
 * N Zolkavich (2019), Chromatic Polynomials of Directed Graphs, Undergraduate Research Assistant (NSERC)
 * J Pas (2018), Complexity of Simple Colourings of Digraphs, Undergraduate Research Assistant (NSERC)
-* J Barrett (2016), Shapley–Shubik Power Index on Graphs, Honours Thesis & Undergraduate Research Assistant (NSERC)
+* J Barrett (2016), Shapley–Shubik Power Index on Graphs, Honours Thesis & Undergraduate Research Assistant (NSERC) (jointly supervised with R. Nowikowski)
 * R Cutcliffe (2016), The Emergence of Cooperative Behaviour on Grids, Honours Thesis (jointly supervised with J. Janssen)
