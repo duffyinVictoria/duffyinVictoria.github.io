@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-**Classroom Teaching**
+**Classroom Teaching and Coordination**
 * University of Melbourne
   * MAST10005 (Calculus 1) 2022-2026
   * MAST20026 (Real Analysis) 2021-2022 [notes](/RealAnalysisNotes.pdf)
@@ -19,10 +19,10 @@ author_profile: true
   * MATH363 (Abstract Algebra) 2020
   * MATH328 (Combinatorics) 2019
  * University of Victoria
+   * MATH101 (Calculus II) 2015
    * MATH151 (Finite Mathematics) 2012-2014
    * MATH099 (Mathematics Skills Workshop) 2014
    * MATH212 (Introduction to Abstract Algebra) 2013
-   * MATH101 (Calculus II) 2012
    * MATH161 (Mathematics for Elementary School Teachers) 2011
 
 **Professional Development Workshops**
